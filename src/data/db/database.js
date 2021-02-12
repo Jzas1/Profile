@@ -93,6 +93,13 @@ const database = {
       imageUrl: "/img/git-find-img.png",
       url: 'https://github-finder-jz.herokuapp.com'
     },
+    {
+      id: 4,
+      title: "Amazona",
+      subtitle: "I re-created Amazon with React, Redux, MongoDb, Node.js, and Express",
+      imageUrl: "/img/amazon.png",
+      url: 'https://jrz-amazona-app.herokuapp.com/'
+    },
   ],
   experience: {
     workingExperience: [
