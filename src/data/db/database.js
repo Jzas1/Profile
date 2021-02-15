@@ -100,6 +100,13 @@ const database = {
       imageUrl: "/img/amazon.png",
       url: 'https://jrz-amazona-app.herokuapp.com/'
     },
+    {
+      id: 5,
+      title: "Dev-Connector",
+      subtitle: "I created a social networking site with React, Redux, MongoDb, and Express",
+      imageUrl: "/img/dev.png",
+      url: 'https://polar-thicket-67223.herokuapp.com/'
+    },
   ],
   experience: {
     workingExperience: [
